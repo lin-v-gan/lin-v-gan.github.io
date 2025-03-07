@@ -1,6 +1,7 @@
 ---
 layout: post
 category: how-to
+title: How to find the most cited papers from any journal on Web of Science
 ---
 
 *I wanted to provide screenshots, but unfortunately `Attempt to authenticate non-existent session` won't go away... Sorry!*

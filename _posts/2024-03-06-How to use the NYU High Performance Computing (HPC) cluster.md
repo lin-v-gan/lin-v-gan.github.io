@@ -1,7 +1,9 @@
 ---
 layout: post
 category: how-to
+title: How to use the NYU High Performance Computing (HPC) cluster
 ---
+*2/25/25 update: [Link](https://github.com/curlsloth/NYU-HPC-4-newbies) to a much better guide, by Andrew Chang!*
 
 All NYU folks have access to the Greene High Performance Computing (HPC) cluster. It's super powerful (\> 30K Intel CPU cores and > 360 NVIDIA GPUs and AMD GPUs—see specs [here](https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene/hardware-specs?authuser=0)) and can handle with grace many things that your humble personal machines will take forever to do, if they can do it at all. 
 

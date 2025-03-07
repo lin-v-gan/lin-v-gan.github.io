@@ -6,7 +6,13 @@ entries:
     url: https://drive.google.com/file/d/1G0DBJxDMnEYknpY7LJmIE1PBI6PKNOgj/view?usp=sharing
 
   - title: Blog
-    url: how-to.html
+    entries:
+      - title: How-to guides
+        url: how-to.html
+      - title: Stats notes
+        url: stats.html
+
+
 
       # limit: 0
       # show_more: true
